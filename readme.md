@@ -7,13 +7,11 @@ All the essential resources and template code needed to understand and practice 
 
 ### 1.  [Resources](/01.%20Resources/)
 1. [Books](/01.%20Resources/Books/)
-    - [Data Structures - Reema Thareja](/01.%20Resources/Books/Data%20Structures%20-%20Reema%20Thareja.pdf)
     - [competitiveCoding](https://github.com/mihirs16/Data-Structures-and-Algorithms-Python/blob/master/01.%20Resources/Books/competitiveCoding.pdf)
 2. [Big-O Cheat Sheet](/01.%20Resources/BigO-cheat-sheet.pdf)
-3. [DAA Syllabus](/01.%20Resource/DAA%20Syllabus.pdf)
-4. [Interview Cheat sheet](/01.%20Resources/Interview%20cheatsheet.pdf)
-5. [Master Plan](/01.%20Resources/Master%20Plan.pdf)
-6. [Master the Interview](/01.%20Resources/Master_the_Interview.pdf)
+3. [Interview Cheat sheet](/01.%20Resources/Interview%20cheatsheet.pdf)
+4. [Master Plan](/01.%20Resources/Master%20Plan.pdf)
+5. [Master the Interview](/01.%20Resources/Master_the_Interview.pdf)
 
 ### 2. [Big-O](/02.%20Big-O/)
 1. [O(1)](/02.%20Big-O/O(1).py)
