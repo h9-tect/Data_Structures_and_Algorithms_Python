@@ -29,7 +29,7 @@ All the essential resources and template code needed to understand and practice 
 5. [Stack](/03.%20Data%20Structures/Queues)
 6. [Queues](/03.%20Data%20Structures/Stacks)
 7. [Trees](/03.%20Data%20Structures/Trees)
-
+ 
 ### 4.  [Algorithms](/04.%20Algorithms/)
 1. [Divide and Conquer](/04.%20Algorithms/Divide%20and%20Conquer/)
 2. [Dynamic Programming](/04.%20Algorithms/Dynamic%20Programming/)
