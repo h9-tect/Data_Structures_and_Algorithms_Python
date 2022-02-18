@@ -1,9 +1,5 @@
 # Data Structures and Algorithms
 
-![](https://img.shields.io/github/issues/shushrutsharma/Data-Structures-and-Algorithms-Python?color=red&style=for-the-badge)
-![](https://img.shields.io/github/issues-pr-closed/shushrutsharma/Data-Structures-and-Algorithms-Python?style=for-the-badge)
-![](https://img.shields.io/github/stars/shushrutsharma/Data-Structures-and-Algorithms-Python?style=for-the-badge)
-![](https://img.shields.io/badge/Built%20With-Python-blueviolet?style=for-the-badge)
 
 All the essential resources and template code needed to understand and practice data structures and algorithms in python with few small projects to demonstrate their practical application.
 
